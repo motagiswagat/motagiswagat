@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Swagat</h1>
-<h3 align="center">A passionate SDET from India</h3>
+<h3 align="center">Software Development Engineer in Test (SDET) from India</h3>
 
+<p align="left">
+I'm a dedicated <b>Test Automation Engineer</b> based in Bengaluru, India, with a passion for building robust testing frameworks and innovative quality solutions. I thrive on solving complex architectural challenges in the QA space and optimizing the software delivery lifecycle.
+</p>
+
+---
+
+### 🔭 Currently
+* **Role:** QAE2 at **Amazon** 📦
+* **Focus:** Building scalable automation and ensuring high-velocity quality standards.
+
+### 🌱 Exploring & Learning
+* **MCP Servers:** Integrating Model Context Protocol for smarter workflows.
+* **Playwright:** Mastering modern end-to-end testing and performance.
+* **GenAI Tools:** Leveraging LLMs to revolutionize test data generation and code analysis.
 
 
 <h3 align="left">Languages and Tools:</h3>
