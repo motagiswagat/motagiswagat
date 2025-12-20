@@ -7,6 +7,18 @@ I'm a dedicated <b>Test Automation Engineer</b> based in Bengaluru, India, with 
 
 ---
 
+🚀 Featured Project
+#### [CucumberTestNGFramework](https://github.com/motagiswagat/CucumberTestNGFramework)
+A production-grade BDD automation framework designed for scalability and speed.
+
+Architecture: Implements Page Object Model (POM) with a thread-safe ThreadLocal WebDriver factory.
+
+Performance: Native support for Parallel Execution via TestNG, allowing for rapid test feedback loops.
+
+Tech Stack: Java, Selenium, Cucumber, Maven, and Extent Reports.
+
+Key Features: Cross-browser support (Chrome/Edge), automatic failure screenshots, and centralized configuration management.
+
 ### 🔭 Currently
 * **Role:** QAE2 at **Amazon** 📦
 * **Focus:** Building scalable automation and ensuring high-velocity quality standards.
@@ -15,6 +27,7 @@ I'm a dedicated <b>Test Automation Engineer</b> based in Bengaluru, India, with 
 * **MCP Servers:** Integrating Model Context Protocol for smarter workflows.
 * **Playwright:** Mastering modern end-to-end testing and performance.
 * **GenAI Tools:** Leveraging LLMs to revolutionize test data generation and code analysis.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
