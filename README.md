@@ -11,13 +11,24 @@ I'm a dedicated <b>Test Automation Engineer</b> based in Bengaluru, India, with 
 #### [CucumberTestNGFramework](https://github.com/motagiswagat/CucumberTestNGFramework)
 A production-grade BDD automation framework designed for scalability and speed.
 
-Architecture: Implements Page Object Model (POM) with a thread-safe ThreadLocal WebDriver factory.
+**Architecture**: Implements Page Object Model (POM) with a thread-safe ThreadLocal WebDriver factory.
 
-Performance: Native support for Parallel Execution via TestNG, allowing for rapid test feedback loops.
+**Performance**: Native support for Parallel Execution via TestNG, allowing for rapid test feedback loops.
 
-Tech Stack: Java, Selenium, Cucumber, Maven, and Extent Reports.
+**Tech Stack**: Java, Selenium, Cucumber, Maven, and Extent Reports.
 
-Key Features: Cross-browser support (Chrome/Edge), automatic failure screenshots, and centralized configuration management.
+**Key Features**: Cross-browser support (Chrome/Edge), automatic failure screenshots, and centralized configuration management.
+
+📡 Pytest-GoRest-Framework (API Automation)
+A scalable, modular API testing framework designed for complex CRUD lifecycles.
+
+**Architecture**: Utilizes the API Client Pattern to decouple endpoint logic from test assertions.
+
+**Advanced Fixtures**: Implements Fixture Chaining and Class-level Injection via conftest.py to share state (like user_id) across sequential tests.
+
+**Security & Scalability**: Uses python-dotenv for secure Bearer Token management and custom Pytest Markers for granular test suite execution.
+
+**Tech Stack**: Python, Pytest, Requests, Dotenv.
 
 ### 🔭 Currently
 * **Role:** QAE2 at **Amazon** 📦
