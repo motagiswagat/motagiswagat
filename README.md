@@ -7,7 +7,7 @@ I'm a dedicated <b>Test Automation Engineer</b> based in Bengaluru, India, with 
 
 ---
 
-🚀 Featured Project
+🚀 Featured Projects
 #### [CucumberTestNGFramework](https://github.com/motagiswagat/CucumberTestNGFramework)
 A production-grade BDD automation framework designed for scalability and speed.
 
@@ -19,7 +19,7 @@ A production-grade BDD automation framework designed for scalability and speed.
 
 **Key Features**: Cross-browser support (Chrome/Edge), automatic failure screenshots, and centralized configuration management.
 
-📡 [Pytest-GoRest-Framework (API Automation)](https://github.com/motagiswagat/Pytest-GoRest-framework)
+####  [Pytest-GoRest-Framework (API Automation)](https://github.com/motagiswagat/Pytest-GoRest-framework)
 A scalable, modular API testing framework designed for complex CRUD lifecycles.
 
 **Architecture**: Utilizes the API Client Pattern to decouple endpoint logic from test assertions.
