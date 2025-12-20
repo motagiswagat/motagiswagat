@@ -30,6 +30,15 @@ A scalable, modular API testing framework designed for complex CRUD lifecycles.
 
 **Tech Stack**: Python, Pytest, Requests, Dotenv.
 
+---
+
+> ### 💡 Real-World Automation: The Case of the Missing ID
+> I once lost a tracking ID for a new **Delhivery** shipment but still had an older ID. Realizing the IDs were likely sequential, I didn't waste time guessing. I wrote a quick automation script to **brute-force increment** the old ID and poll the tracking UI. 
+> 
+> **Result:** I recovered my missing ID in under 2 minutes. I don't just build frameworks for work; I use automation to solve real-life inconveniences! 🚀
+
+---
+
 ### 🔭 Currently
 * **Role:** QAE2 at **Amazon** 📦
 * **Focus:** Building scalable automation and ensuring high-velocity quality standards.
